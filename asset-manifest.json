@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Portfolio.github.io/static/css/main.2ce70538.css",
+    "main.js": "/Portfolio.github.io/static/js/main.37e47572.js",
+    "static/media/about_bg.jpg": "/Portfolio.github.io/static/media/about_bg.9705fb205e066e45c901.jpg",
+    "static/media/cv.pdf": "/Portfolio.github.io/static/media/cv.486f48a92576b89326cd.pdf",
+    "static/media/my_photo.png": "/Portfolio.github.io/static/media/my_photo.50039574a87001694897.png",
+    "static/media/portfolio5.png": "/Portfolio.github.io/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/portfolio2.jpg": "/Portfolio.github.io/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/Portfolio.github.io/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/Portfolio.github.io/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/Portfolio.github.io/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/Portfolio.github.io/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "index.html": "/Portfolio.github.io/index.html",
+    "main.2ce70538.css.map": "/Portfolio.github.io/static/css/main.2ce70538.css.map",
+    "main.37e47572.js.map": "/Portfolio.github.io/static/js/main.37e47572.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ce70538.css",
+    "static/js/main.37e47572.js"
+  ]
+}
